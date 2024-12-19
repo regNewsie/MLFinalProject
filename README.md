@@ -1,6 +1,6 @@
 This project is a machine learning model to predict the amount of carbon emissions of data mining, given inputs of the date and the amount of electricity consumed.
 
-This article talks about how the data was gathered, and this where I downloaded the dataset: https://www.sciencedirect.com/science/article/pii/S2352340922004541
+This article talks about how the data was gathered and where I downloaded the dataset: https://www.sciencedirect.com/science/article/pii/S2352340922004541
 
 The Data card and the Deon card are all in the gitHub (there is no link to Hugging face because I don't think hugging face is necessary to display the information)
 
