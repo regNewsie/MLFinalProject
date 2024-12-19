@@ -1,4 +1,4 @@
-# Ethics Checklist for Forest Wildfire Prediction Model
+# Ethics Checklist for Carbon Emissions of Data Mining
 
 ## 1. Data Collection
 - **Input Variables**: Date, the average electricity concumption
